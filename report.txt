@@ -1,0 +1,8 @@
+Report del : sab 18 nov 2023, 23:25
+=================================
+
+Oggetto creato: obj1 
+Oggetto creato: obj2 
+Oggetto creato: obj3 
+Oggetto creato: obj4 
+Oggetto creato: obj5 
